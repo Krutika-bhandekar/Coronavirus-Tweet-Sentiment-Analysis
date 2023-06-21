@@ -1,1 +1,1 @@
-# Covid-Sentiment-Analysis
+# Coronavirus-Tweet-Sentiment-Analysis
