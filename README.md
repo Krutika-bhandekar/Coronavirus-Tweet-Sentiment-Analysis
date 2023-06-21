@@ -1,12 +1,14 @@
 # Coronavirus-Tweet-Sentiment-Analysis
-This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then Problem Statement This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then.The names and usernames have been given codes to avoid any privacy concerns. We are given the following information:
+This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then Problem Statement This challenge asks you to build a classification model to predict the sentiment of COVID-19 tweets. The tweets have been pulled from Twitter and manual tagging has been done then.The names and usernames have been given codes to avoid any privacy concerns. 
+We are given the following information:
 
-Location
-TweetAt
-Original Tweet
-Sentiment
-User Name
-Screen Name Variables Description Answer Here
+1. Location
+2. TweetAt
+3. Original Tweet
+4. Sentiment
+5. User Name
+6. Screen Name Variables Description Answer Here
+
 UserName: This column contains the username of the person who posted the tweet.
 
 ScreenName: This column contains the screen name or handle of the user who posted the tweet.
